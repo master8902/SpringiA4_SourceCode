@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stereo-autoconfig.iml" filepath="$PROJECT_DIR$/.idea/modules/stereo-autoconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stereo-autoconfig_main.iml" filepath="$PROJECT_DIR$/.idea/modules/stereo-autoconfig_main.iml" group="stereo-autoconfig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stereo-autoconfig_test.iml" filepath="$PROJECT_DIR$/.idea/modules/stereo-autoconfig_test.iml" group="stereo-autoconfig" />
+    </modules>
+  </component>
+</project>

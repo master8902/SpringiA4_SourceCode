@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/externals.iml" filepath="$PROJECT_DIR$/.idea/modules/externals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/externals_main.iml" filepath="$PROJECT_DIR$/.idea/modules/externals_main.iml" group="externals" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/externals_test.iml" filepath="$PROJECT_DIR$/.idea/modules/externals_test.iml" group="externals" />
+    </modules>
+  </component>
+</project>

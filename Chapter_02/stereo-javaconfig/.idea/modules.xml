@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stereo-javaconfig.iml" filepath="$PROJECT_DIR$/.idea/modules/stereo-javaconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stereo-javaconfig_main.iml" filepath="$PROJECT_DIR$/.idea/modules/stereo-javaconfig_main.iml" group="stereo-javaconfig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stereo-javaconfig_test.iml" filepath="$PROJECT_DIR$/.idea/modules/stereo-javaconfig_test.iml" group="stereo-javaconfig" />
+    </modules>
+  </component>
+</project>
